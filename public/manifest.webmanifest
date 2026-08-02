@@ -1,0 +1,10 @@
+{
+  "name": "職種充足率",
+  "short_name": "充足率",
+  "description": "全国73職種の公式充足率と元件数を比較",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#19353b",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
